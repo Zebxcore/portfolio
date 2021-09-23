@@ -2,13 +2,9 @@
   text-align: center;
 }
 
-::backdrop{
-  color: #282c34;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  background-color:lightblue;
+  background-image: url(./assets/background.png);
 }
 
 @media (prefers-reduced-motion: no-preference) {
