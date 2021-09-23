@@ -5,9 +5,9 @@ function NavBar(){
     return(
         <div>
             <ul>
-                <li><Link to="./App">Home</Link></li>
+                <li><Link to="./home">Home</Link></li>
                 <li><Link to="/about-me">About me</Link></li>
-                <li><Link to="/portfolio">Portfolio</Link></li>
+                <li><Link to="/inDepthPortfolio">Portfolio</Link></li>
                 <li><Link to="/projects">Projects</Link></li>
             </ul>
         </div>
