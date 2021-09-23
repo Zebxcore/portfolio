@@ -1,7 +1,7 @@
 import React from "react";
 import profile from '../assets/profile.png';
 
-function home(){
+function homeTop(){
     return(
         <div>
             <h1> CISC275 - Intro to Software Engineering </h1>
@@ -27,4 +27,4 @@ function home(){
     )
 }
 
-export default home;
+export default homeTop;
