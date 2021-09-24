@@ -6,12 +6,21 @@ function homeBottom(){
         <div>
 
             <hr />
-            
+
             <div className="row">
                 <div className="col">
                     <h1>
                         Change Log
                     </h1>
+
+                    <h3>
+                    09/23/2021
+                    </h3>
+                    <ul>
+                        <li> Exported website to a React App</li>
+                        <li> Added some info to projects</li>
+                        <li> Created and initialized repos and React apps for projects</li>
+                    </ul>
 
                     <h3>
                         09/16/2021
@@ -55,7 +64,8 @@ function homeBottom(){
                         <li className="done"> Import this website to a React App</li>
                         <li> Start exploring the possibility of doing Git Issues and branching (I have been watching <a href="https://www.youtube.com/watch?v=Z5iWr6Srsj8" target="_blank" rel="noreferrer">this</a> video)(In Progress)</li>
                         <li> <strong>NEW!</strong> Further Investigate hooks, props and how to render props (<a href="https://www.youtube.com/watch?v=Z5iWr6Srsj8" target="_blank" rel="noreferrer">this</a>) videos seems interesting (In Progress)</li>
-                        <li> </li>
+                        <li> <strong>NEW!</strong> Watch videos on APIs and how they work so I can include them in my Bot Project</li>
+                        <li> <strong>NEW!</strong> Research local storage and how to handle animations for different types of objects</li>
                     </ul>
                 </div>
 
