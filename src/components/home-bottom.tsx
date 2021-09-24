@@ -1,5 +1,5 @@
 import React from "react";
-
+import Button from 'react-bootstrap/Button';
 
 function homeBottom(){
     return(
@@ -44,7 +44,7 @@ function homeBottom(){
                         <li> Split index.html into more files and changed layout even more with CSS</li>
                     </ul>
 
-                {/* Add button here to go to extended Log */}
+                    <Button href="/log">See more</Button>
 
                 </div>
 
@@ -67,10 +67,10 @@ function homeBottom(){
                         <li> <strong>NEW!</strong> Watch videos on APIs and how they work so I can include them in my Bot Project</li>
                         <li> <strong>NEW!</strong> Research local storage and how to handle animations for different types of objects</li>
                     </ul>
+
+                    <Button href="/toDo">See more</Button>
+
                 </div>
-
-                {/* Add button here to go to extended TODO */}
-
             </div>
         </div>
     )
