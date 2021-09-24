@@ -24,6 +24,9 @@ ul{
   padding-left: 40px;
 }
 
+footer{
+  text-align: center;
+}
 .row{
   display: flex;
   flex-direction: row;
