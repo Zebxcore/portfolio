@@ -23,6 +23,9 @@ function homeTop(){
                     </div>
                 </div>
             </div>
+
+            <hr />
+            
         </div>
     )
 }
