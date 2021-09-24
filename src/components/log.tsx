@@ -13,7 +13,7 @@ function log(){
                 <ul>
                     <li> Exported website to a React App</li>
                     <li> Added some info to projects</li>
-                    <li> Created and added repos and React apps for projects</li>
+                    <li> Created and initialized repos and React apps for projects</li>
                 </ul>
 
                 <h3>
