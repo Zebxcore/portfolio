@@ -12,7 +12,8 @@ function homeTop(){
                     <div className="col">
                         <p id="intro"> 
                             This is Sebastian Cortes' portfolio for CISC275 - Intro to Software Engineering <br /><br />
-                            You can find a link to my repository <a href="https://github.com/Zebxcore/Zebxcore.github.oi" target="_blank "> here</a>. 
+                            You can find a link to my original repository <a href="https://github.com/Zebxcore/Zebxcore.github.oi" target="_blank "> here</a>. <br />
+                            The repository for this React App can be found <a href="https://github.com/Zebxcore/portfolio" target="_blank"> here</a>. <br />
                             You can reach me at scortesz@udel.edu, I will be updating this website regularly so expect bugs everywhere :) (or not lol)
                         </p>
                     </div>
@@ -25,7 +26,7 @@ function homeTop(){
             </div>
 
             <hr />
-            
+
         </div>
     )
 }
