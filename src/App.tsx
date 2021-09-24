@@ -26,6 +26,12 @@ function App() {
       <Route exact path="/todo" component={toDo} /> 
       <Route exact path="/log" component={log} /> 
 
+      <footer>
+        <p>
+          All Rights Reserved &copy; 2021
+        </p>
+      </footer>
+
     </div>
   );
 }
