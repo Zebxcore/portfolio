@@ -88,7 +88,7 @@ ul{
 
 @media (prefers-reduced-motion: no-preference) {
   #img {
-    animation: img-spin infinite 10s linear;
+    animation: img-spin infinite 5s ;
   }
 }
 
