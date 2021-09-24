@@ -3,7 +3,7 @@ import React from "react";
 function projects(){
     return(
         <div>
-            <h1> Projects </h1>
+            <h1 className="header"> Projects </h1>
 
             <p>
                 All my projects for CISC275 and personal projects will be displayed here with their respective links to their repositories as well as their websites.

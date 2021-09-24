@@ -3,7 +3,7 @@ import React from "react";
 function aboutMe(){
     return(
         <div>
-            <h1> About Me </h1>
+            <h1 className="header"> About Me </h1>
 
             <p>
                 My name is Sebastian Cortes. I am 24 years old and I am from Colombia. <br />

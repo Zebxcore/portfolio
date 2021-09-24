@@ -3,7 +3,7 @@ import React from "react";
 function toDo(){
     return(
         <div>
-            <h1> TODO </h1>
+            <h1 className="header"> TODO </h1>
 
             <h3>Week #3 TODO</h3>
             <div>
