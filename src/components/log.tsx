@@ -6,7 +6,13 @@ function log(){
             <h1> Log </h1>
 
             <div>
-
+                <h3>
+                    09/30/2021
+                </h3>
+                <ul>
+                    <li> Added links to flashcard game project</li>
+                    <li> Fixed typos and updated Weekly Milestone#4</li>
+                </ul>
                 <h3>
                     09/23/2021
                 </h3>

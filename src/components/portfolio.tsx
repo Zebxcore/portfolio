@@ -63,6 +63,15 @@ function portfolio() {
                         <li> <strong>NEW!</strong> Watch videos on APIs and how they work so I can include them in my Bot Project</li>
                         <li> <strong>NEW!</strong> Research local storage and how to handle animations for different types of objects</li>
                     </p>
+                    <h2>
+                      Milestone Week #4
+                    </h2>
+                    <p>
+                        <li> This week I started both the discord Bot and the flashcard game. Though I did not get far on both of them due to other classes and personal issues, I am planning on finish them over the weekened  </li>
+                        <li> I watched videos on hooks, props and more advance React techniques like <a href="https://www.youtube.com/watch?v=Z5iWr6Srsj8" target="_blank" rel="noreferrer">this</a> video.</li>
+                        <li> <a href="https://www.youtube.com/watch?v=hEtZ040fsD8" target="_blank" rel="noreferrer">This</a>video helped me figure some stuff out about the flashcard game I am creating, still following some of the stuff he does.</li>
+                        <li> <a href="https://www.youtube.com/watch?v=PZmbunipFnQ" target="_blank" rel="noreferrer">This</a> video and many other have helped me through building my discord bot. </li> 
+                    </p>
                 </div>
         </div>
     )
